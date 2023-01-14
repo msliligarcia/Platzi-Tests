@@ -14,6 +14,7 @@ LISTA DE CURSOS
   **Fundamentos de programación**
 
   - [Curso Gratis de Programación Básica](programacion_basica.md)
+  - [Curso Gratis de Programación Básica - 2023](programacion_basica_2023.md)
   - [Curso de Computación Básica](computacion_basica.md)
   - [Curso Logica de Programación](curso_logica_de_programacion.md)
   - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md)
