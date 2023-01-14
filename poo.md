@@ -37,7 +37,7 @@
 
     constructor
 
-## ¿cuál de estas opciones describe mejor los objetos involucrados?
+## En un sistema de ventas de autos ¿cuál de estas opciones describe mejor los objetos involucrados?
 
     Auto, Vendedor, Cliente
 
