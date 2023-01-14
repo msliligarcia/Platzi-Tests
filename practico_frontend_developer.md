@@ -41,5 +41,5 @@
 ## 13. text-decoration: none; la usamos para:
     Remover la línea de la parte inferior de la etiqueta <a>
 
-## 14. La etiqueta <link> se debe colocar dentro de la etiqueta:
+## 14. La etiqueta link se debe colocar dentro de la etiqueta:
     <head>
