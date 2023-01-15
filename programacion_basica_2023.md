@@ -43,9 +43,8 @@ input:checked
 ## 15. ¿A qué nos referimos cuando decimos “Don't repeat yourself”?
 A un principio del desarrollo de software que nos recomienda evitar repetir nuestro código cuando estamos trabajando una solución. Por ejemplo, al momento de crear funciones, lo ideal sería que se puedan reutilizar a evitar copiar y pegar la misma función muchas veces.
 
-## 16. ¿Para obtener el contexto del canvas usamos getContext()?
-Falso
-REPASAR CLASE
+## 16. ¿Cómo dibujamos un rectángulo dentro de un canvas?
+fillRect()
 
 ## 17. ¿Qué es un objeto?
 Una abstracción en código que nos permite crear representaciones de elementos del mundo que conocemos (por ejemplo, carro, computadora, estudiante, entre otros).
@@ -73,9 +72,6 @@ Es como un canal que indica con qué programa nos estamos comunicando.
 
 ## 25. ¿Cuál es la finalidad del formato JSON?
 Permitirnos crear datos estructurados.
-
-## 26. ¿Cómo dibujamos un rectángulo dentro de un canvas?
-fillRect()
 
 
 
