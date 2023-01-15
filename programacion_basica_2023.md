@@ -4,9 +4,8 @@ Nos permite mostrar mensajes a usuarios de forma invasiva Y pedirles que escriba
 ## 2. Vas a crear una variable y asignarle un valor. ¿Dónde se almacena este contenido?
 Los archivos se guardan en el disco duro cuando escribimos el código. Las variables se guardan en memoria RAM cuando ejecutamos el código.
 
-## 3. ¿Cómo se invoca una función?
-funcion() {}
-REPASAR CLASE
+## 3. Tu sistema tiene las siguientes variables:a = 10, b = 20 y c = a - b. ¿Cuánto vale c?
+-10
 
 ## 4. ¿Cómo llamamos a los textos en la industria de la programación?
 String
@@ -24,8 +23,7 @@ De arriba hacia abajo.
 script
 
 ## 9. ¿Qué tipo de selector en CSS es el siguiente: #titulo?
-elementos
-REPASAR CLASE
+id
 
 ## 10. ¿Qué propiedad de flexbox nos permite cambiar la dirección de los elementos hijos desde un contenedor padre?
 flex-direction
@@ -34,8 +32,7 @@ flex-direction
 background
 
 ## 12. ¿Qué propiedad y valor de CSS podemos asignarle a un elemento padre con el que queremos empezar a trabajar usando CSS Grid?
-display: css-grid;
-REPASAR CLASE
+display: grid;
 
 ## 13. ¿Cuál de las siguientes líneas de código nos ayuda a modificar los estilos de un elemento en particular únicamente en dispositivos con tamaño de 0px a 360px?
 @media (max-width: 360px)
@@ -50,9 +47,8 @@ A un principio del desarrollo de software que nos recomienda evitar repetir nues
 Falso
 REPASAR CLASE
 
-## 17. ¿Cómo agregamos una imagen a un canvas?
-draw()
-REPASAR CLASE
+## 17. ¿Qué es un objeto?
+Una abstracción en código que nos permite crear representaciones de elementos del mundo que conocemos (por ejemplo, carro, computadora, estudiante, entre otros).
 
 ## 18. ¿Al usar la función clearRect() del contexto de un canvas se borra todo el contenido del canvas?
 Verdadero
@@ -77,3 +73,17 @@ Es como un canal que indica con qué programa nos estamos comunicando.
 
 ## 25. ¿Cuál es la finalidad del formato JSON?
 Permitirnos crear datos estructurados.
+
+## 26. ¿Cómo dibujamos un rectángulo dentro de un canvas?
+fillRect()
+
+
+
+
+
+
+
+
+
+
+
