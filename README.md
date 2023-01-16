@@ -50,13 +50,13 @@ LISTA DE CURSOS
 
   **Mobile**
 
-  **Backend, Arquitectura y Bases de Datos**
+  **Backend, Arquitectura, e Infraestructura**
 
   - [Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia](fundamentos_alta_concurrencia.md)
   - [Curso de Introducción a la Terminal y Línea de Comandos](int_terminal_commandline.md)
-  - [Curso de Introducción a la Nube con Azure](int_nube_azure.md)
   - [Curso de Administración de Servidores Linux](linux_server_admin.md)
-
+  - [Ruta Administración de Servidores](ruta_sysadmin.md)
+  
   **Bases de Datos**
 
   - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
@@ -69,7 +69,8 @@ LISTA DE CURSOS
   **Cloud**
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
-
+  - [Curso de Introducción a la Nube con Azure](int_nube_azure.md)
+ 
   **Seguridad**
 
   - [Fundamentos de web scraping](fundamentos_web_scraping_python_y_xpath.md)
